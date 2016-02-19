@@ -1,6 +1,6 @@
 # Text search engine
 
-The estimated Time-Line is January 2016 - May 2016. By the end of May, things will be done.  
+The estimated Timeline is January 2016 - May 2016. By the end of May, things will be done.  
   
 Divided into 5 phases :   
 1. Inverted Index  
