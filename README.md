@@ -1,4 +1,4 @@
-# Information Retrieval - CS429
+# Information Retrieval - CS429 taught by Dr. Aron Culotta at IIT.
 
 The estimated Timeline is January 2016 - May 2016. By the end of May, things will be done.  
   
